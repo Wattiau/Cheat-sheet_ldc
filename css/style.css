@@ -38,3 +38,50 @@ code
 	color: white;
 	font-weight: bold;
 }
+
+@media (max-width:1024px)
+{
+
+header
+{
+		text-align: center;
+		font-size: 1.3em;
+}
+
+body
+{
+	background-color: #C0C0C0;
+}
+
+h2
+{
+	text-align: center;
+	border: solid white 2px;
+	margin: 0px -8px 0px -8px;
+	background-color: #778899;
+	font-size: 2.3em;
+}
+
+li
+{
+		list-style: none;
+		line-height: 1.7em;
+		font-size: 1.5em;
+		margin-left: -25px;
+}
+
+dt
+{
+	display: inline;
+	margin-left: 5px;
+}
+code
+{
+	background-color: black;
+	border-radius: .8em;
+	padding: 5px 15px;
+	color: white;
+	font-weight: bold;
+}
+
+}
