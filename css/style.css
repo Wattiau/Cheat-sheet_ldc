@@ -18,6 +18,11 @@ h2
 	font-size: 2em;
 }
 
+a
+{
+	color: black;
+}
+
 li
 {
 		list-style: none;
@@ -68,6 +73,11 @@ li
 		line-height: 1.7em;
 		font-size: 1.6em;
 		margin-left: -25px;
+}
+
+a
+{
+	font-size: 1.3em;
 }
 
 dt
