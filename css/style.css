@@ -44,6 +44,13 @@ code
 	font-weight: bold;
 }
 
+.toppages
+{
+	color: black;
+	margin-left: 550px;
+	font-size: 1em;
+}
+
 @media (max-width:1024px)
 {
 
@@ -92,6 +99,13 @@ code
 	padding: 5px 15px;
 	color: white;
 	font-weight: bold;
+}
+
+.toppages
+{
+	color: black;
+	margin-left: 110px;
+	font-size: 1em;
 }
 
 }
